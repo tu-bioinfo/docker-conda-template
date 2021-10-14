@@ -1,3 +1,4 @@
 python==3.6
 ucsc-liftover
 bedtools
+samtools
